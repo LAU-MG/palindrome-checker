@@ -1,0 +1,6 @@
+# Ignorer les fichiers de build :
+build
+coverage
+
+# Ignorer tous les fichiers HTML :
+**/*.html
